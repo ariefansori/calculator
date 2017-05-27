@@ -155,27 +155,22 @@ public class FormCalculator extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void cmdJumlahActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_cmdJumlahActionPerformed
-        // TODO add your handling code here:
         hitung(0);
     }//GEN-LAST:event_cmdJumlahActionPerformed
 
     private void cmdKurangActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_cmdKurangActionPerformed
-        // TODO add your handling code here:
         hitung(1);
     }//GEN-LAST:event_cmdKurangActionPerformed
 
     private void cmdKaliActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_cmdKaliActionPerformed
-        // TODO add your handling code here:
         hitung(2);
     }//GEN-LAST:event_cmdKaliActionPerformed
 
     private void cmdBagiActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_cmdBagiActionPerformed
-        // TODO add your handling code here:
         hitung(3);
     }//GEN-LAST:event_cmdBagiActionPerformed
 
     private void cmdSisaActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_cmdSisaActionPerformed
-        // TODO add your handling code here:
         hitung(4);
     }//GEN-LAST:event_cmdSisaActionPerformed
 
