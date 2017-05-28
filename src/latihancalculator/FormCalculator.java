@@ -224,6 +224,7 @@ public class FormCalculator extends javax.swing.JFrame {
             bil1 = Double.parseDouble(txtbil1.getText());
             bil2 = Double.parseDouble(txtbil2.getText());
             
+            // operasi kalkulator
             switch(opsi){
                 case 0  : hasil = bil1 + bil2;
                           break;
@@ -237,7 +238,7 @@ public class FormCalculator extends javax.swing.JFrame {
                           break;
             }
 
-            txthasil.setText(""+hasil);
+            txthasil.setText(String.valueOf(hasil));
 
             txtbil1.setText("");
             txtbil2.setText("");
